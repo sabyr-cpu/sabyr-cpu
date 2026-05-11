@@ -1,5 +1,10 @@
-## Hi there 👋
+## HELLOOOO!!!!! 👋
 
+student at: The University of Hong Kong 
+love: modding
+pronouns: he/him
+reach me: sab.sabyr@proton.me
+working on: micelium
 <!--
 **sabyr-cpu/sabyr-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
