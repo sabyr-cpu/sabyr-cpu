@@ -3,8 +3,7 @@
 - student at: The University of Hong Kong 
 - love: modding
 - pronouns: he/him
-- reach me: sab.sabyr@proton.me
-- working on: micelium
+- reach me: sab.sabyr@gmail.com
 <!--
 **sabyr-cpu/sabyr-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
